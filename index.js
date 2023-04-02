@@ -5,10 +5,11 @@ function oneMovie(movie) {
         <img src="${movie.poster}">
         <div class="content">
             <h4>${movie.title}</h4>
-            <p>${movie.description}</p>
+           
             <p>SHOWTIME:${movie.showtime}</p>
+            <button>button</button>
         </div>
-    `;
+    `
     return card;
 }
 
