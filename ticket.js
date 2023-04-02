@@ -31,7 +31,10 @@ function bookTicket(ticket) {
             const ticketsSold = parseInt(buttonMe.textContent.split(':')[1]);
             const newTicketsSold = Math.abs(ticketsSold - 1);
             buttonMe.textContent = `Tickets: ${newTicketsSold}`;
-
+            if (newTicketsSold === 0){
+                alert ('Sorry tickets No more tickets are available')
+                // return "NO TICKETS ARE AVAILABLE"
+            }
             
           });
         });
