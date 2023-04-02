@@ -41,7 +41,7 @@ This is about a movie ticket system
 3. JavaScript
 *****
 ## Contact Information
-* Email : anitakahenya1@gmail.com
+* Email : belammuia0@gmail.com
 *****
 ## [License](LICENSE)
 NONE
