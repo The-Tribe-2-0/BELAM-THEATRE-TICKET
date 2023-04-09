@@ -1,0 +1,27 @@
+body{
+    background-color: coral;
+}
+.home h1{
+    text-align: center;
+}
+.movies{
+    text-align: left;
+    font-size:12px;
+}
+#Movies{
+    border-radius: 1rem;
+   background-color: aquamarine;
+}
+.container{
+    border: 1px solid green;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+    padding: 10px;
+    text-align: center;
+    width: 300px
+}
+.container img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
