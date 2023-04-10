@@ -5,8 +5,9 @@
 ## Project Description
 This is about a movie ticket system
 ******
-
-
+## screenshot
+file:///Users/belammuia/Desktop/Screenshot%202023-04-10%20at%2011.47.33.png
+file:///Users/belammuia/Desktop/Screenshot%202023-04-10%20at%2011.48.53.png
 
 
 ********
@@ -33,7 +34,7 @@ This is about a movie ticket system
 
 
 ## Dependencies
-- db.json file
+-   None
 *****
 ## Technologies Used
 1. HTML
